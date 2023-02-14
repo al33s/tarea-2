@@ -1,0 +1,8 @@
+D:\visual estudio\trabajos U\prueba\prueba\bin\Debug\prueba.exe.config
+D:\visual estudio\trabajos U\prueba\prueba\bin\Debug\prueba.exe
+D:\visual estudio\trabajos U\prueba\prueba\bin\Debug\prueba.pdb
+D:\visual estudio\trabajos U\prueba\prueba\obj\Debug\clase4POO.csproj.AssemblyReference.cache
+D:\visual estudio\trabajos U\prueba\prueba\obj\Debug\clase4POO.csproj.SuggestedBindingRedirects.cache
+D:\visual estudio\trabajos U\prueba\prueba\obj\Debug\clase4POO.csproj.CoreCompileInputs.cache
+D:\visual estudio\trabajos U\prueba\prueba\obj\Debug\prueba.exe
+D:\visual estudio\trabajos U\prueba\prueba\obj\Debug\prueba.pdb
